@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «TypeScript»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/d1rt30r5a4xmy32n?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/typescript-hw-12)
+
 **Важно**: все задачи допустимо выполнять в одном GitHub репозитории.
 
 **Важно**: тесты должны обеспечивать 100% покрытие тестируемых функций по строкам.
